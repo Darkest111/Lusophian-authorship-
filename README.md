@@ -4,6 +4,14 @@ AUTHORSHP DECLARATION
 
 Title: Lusophia, Lusophian, and the Lusophian Field Theory Author: Kimberly Hebert (Lusophia) Original Creation Date: May 22, 2025
 
+⚠️ Licensing
+
+This work is protected under: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0)
+
+> You may share this work with attribution.
+You may not remix, transform, or build upon it.
+You may not use it commercially.
+
 
 ---
 
